@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "material-dashboard-ang",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
